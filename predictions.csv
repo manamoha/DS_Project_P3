@@ -1,0 +1,21 @@
+Image_File_Path,Predicted_Label,Confidence
+new_images\1.jpg,Dalmatian,0.99999964
+new_images\10.jpg,Pug,0.9668172
+new_images\11.jpg,Pug,0.99502784
+new_images\12.jpg,Pug,0.8572587
+new_images\13.jpg,Pug,0.98627454
+new_images\14.jpg,Rottweiler,0.7724036
+new_images\15.png,Rottweiler,0.58787555
+new_images\16.jpg,Rottweiler,0.99999666
+new_images\17.jpg,Rottweiler,0.99982905
+new_images\18.jpg,Rottweiler,0.9964042
+new_images\19.jpg,Rottweiler,0.999718
+new_images\2.jpg,Dalmatian,0.99974626
+new_images\20.jpg,Golden Retriever,0.6365983
+new_images\3.jpg,Dalmatian,0.99994266
+new_images\4.jpeg,Dalmatian,1.0
+new_images\5.jpg,Golden Retriever,0.9318039
+new_images\6.jpg,Golden Retriever,0.994575
+new_images\7.jpg,Golden Retriever,0.7293012
+new_images\8.jpg,Golden Retriever,0.9999902
+new_images\9.jpg,Golden Retriever,0.9994629

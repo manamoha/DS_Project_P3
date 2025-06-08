@@ -1,0 +1,249 @@
+2025-06-05 16:07:43,907 - INFO - Loaded Excel data: 2000 images
+2025-06-05 16:07:43,909 - ERROR - Database setup failed: 'Image_File_Path'
+2025-06-05 16:11:33,475 - INFO - Loaded Excel data: 2000 images
+2025-06-05 16:11:33,620 - INFO - Saved dataset_splits.csv
+2025-06-05 16:11:33,627 - ERROR - Database setup failed: near "Set": syntax error
+2025-06-05 16:13:53,019 - INFO - Loaded Excel data: 2000 images
+2025-06-05 16:13:53,184 - INFO - Saved dataset_splits.csv
+2025-06-05 16:13:53,214 - INFO - Images table created and populated
+2025-06-05 16:13:53,224 - INFO - Predictions table created
+2025-06-05 16:13:53,224 - INFO - Database setup complete: ./data/DogImages.db
+2025-06-05 16:20:02,107 - INFO - Loaded Excel data: 2000 images
+2025-06-05 16:20:02,235 - INFO - Saved dataset_splits.csv
+2025-06-05 16:20:02,268 - INFO - Images table created and populated
+2025-06-05 16:20:02,269 - INFO - Predictions table created
+2025-06-05 16:20:02,269 - INFO - Database setup complete: ./data/DogImages.db
+2025-06-05 16:44:49,926 - INFO - Starting training pipeline
+2025-06-05 16:44:49,926 - ERROR - Data loading failed: Execution failed on sql 'SELECT Image_File_Path, Breed, Label FROM images WHERE Set = 'train'': near "Set": syntax error
+2025-06-05 16:44:49,926 - ERROR - Training pipeline failed: Execution failed on sql 'SELECT Image_File_Path, Breed, Label FROM images WHERE Set = 'train'': near "Set": syntax error
+2025-06-05 16:49:22,992 - INFO - Starting training pipeline
+2025-06-05 16:49:23,002 - INFO - Loaded train data: 1399 images
+2025-06-05 16:49:23,002 - INFO - Loaded val data: 301 images
+2025-06-05 16:49:23,062 - INFO - Data generator created for train: 1399 images
+2025-06-05 16:49:23,092 - INFO - Data generator created for val: 301 images
+2025-06-05 16:49:23,168 - INFO - Applied augmentation for training data
+2025-06-05 16:49:23,168 - INFO - No augmentation applied for non-training data
+2025-06-05 16:49:23,169 - ERROR - Training failed: Execution failed on sql 'SELECT Label FROM images WHERE Set = 'train'': near "Set": syntax error
+2025-06-05 16:49:23,169 - ERROR - Training pipeline failed: Execution failed on sql 'SELECT Label FROM images WHERE Set = 'train'': near "Set": syntax error
+2025-06-05 16:50:53,048 - INFO - Starting training pipeline
+2025-06-05 16:50:53,068 - INFO - Loaded train data: 1399 images
+2025-06-05 16:50:53,068 - INFO - Loaded val data: 301 images
+2025-06-05 16:50:53,136 - INFO - Data generator created for train: 1399 images
+2025-06-05 16:50:53,164 - INFO - Data generator created for val: 301 images
+2025-06-05 16:50:53,232 - INFO - Applied augmentation for training data
+2025-06-05 16:50:53,232 - INFO - No augmentation applied for non-training data
+2025-06-05 16:50:53,240 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-05 16:50:53,943 - INFO - Training VGG16...
+2025-06-05 17:18:27,922 - INFO - VGG16 - Val Accuracy: 0.2757, F1-Score: 0.1575
+2025-06-05 17:18:27,922 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-05 17:18:28,274 - INFO - Model saved: ./vgg16_model.h5
+2025-06-05 17:18:28,294 - INFO - Training pipeline completed successfully
+2025-06-05 17:28:44,832 - INFO - Starting prediction pipeline
+2025-06-05 17:28:44,843 - INFO - Loaded new images for prediction: 16 images
+2025-06-05 17:28:44,853 - INFO - Data generator created for predict: 16 images
+2025-06-05 17:28:44,853 - INFO - No augmentation applied for non-training data
+2025-06-05 17:28:45,256 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-05 17:28:45,269 - INFO - Loaded VGG16 model
+2025-06-05 17:28:47,686 - INFO - Predictions saved to ./predictions.csv
+2025-06-05 17:28:47,696 - INFO - Predictions saved to database
+2025-06-05 17:28:47,706 - INFO - Prediction pipeline completed successfully
+2025-06-05 17:32:04,822 - INFO - Starting prediction pipeline
+2025-06-05 17:32:04,833 - INFO - Loaded new images for prediction: 18 images
+2025-06-05 17:32:04,834 - INFO - Data generator created for predict: 18 images
+2025-06-05 17:32:04,834 - INFO - No augmentation applied for non-training data
+2025-06-05 17:32:05,179 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-05 17:32:05,189 - INFO - Loaded VGG16 model
+2025-06-05 17:32:07,459 - ERROR - Prediction failed: [Errno 13] Permission denied: './predictions.csv'
+2025-06-05 17:32:07,459 - ERROR - Prediction pipeline failed: [Errno 13] Permission denied: './predictions.csv'
+2025-06-05 17:32:49,489 - INFO - Starting prediction pipeline
+2025-06-05 17:32:49,492 - INFO - Loaded new images for prediction: 18 images
+2025-06-05 17:32:49,492 - INFO - Data generator created for predict: 18 images
+2025-06-05 17:32:49,492 - INFO - No augmentation applied for non-training data
+2025-06-05 17:32:49,817 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-05 17:32:49,829 - INFO - Loaded VGG16 model
+2025-06-05 17:32:52,080 - INFO - Predictions saved to ./predictions.csv
+2025-06-05 17:32:52,094 - INFO - Predictions saved to database
+2025-06-05 17:32:52,094 - INFO - Prediction pipeline completed successfully
+2025-06-05 17:47:35,007 - INFO - Starting training pipeline
+2025-06-05 17:47:35,013 - INFO - Loaded train data: 1399 images
+2025-06-05 17:47:35,015 - INFO - Loaded val data: 301 images
+2025-06-05 17:47:35,017 - INFO - Loaded test data: 300 images
+2025-06-05 17:47:35,058 - INFO - Data generator created for train: 1399 images
+2025-06-05 17:47:35,077 - INFO - Data generator created for val: 301 images
+2025-06-05 17:47:35,093 - INFO - Data generator created for test: 300 images
+2025-06-05 17:47:35,135 - INFO - Applied augmentation for training data
+2025-06-05 17:47:35,135 - INFO - No augmentation applied for non-training data
+2025-06-05 17:47:35,135 - INFO - No augmentation applied for non-training data
+2025-06-05 17:47:35,145 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-05 17:47:35,580 - INFO - Training VGG16...
+2025-06-05 18:18:40,817 - INFO - VGG16 - Val Accuracy: 0.3588, F1-Score: 0.3319
+2025-06-05 18:18:40,817 - INFO - Evaluating VGG16 on test set...
+2025-06-05 18:19:23,804 - INFO - VGG16 - Test Accuracy: 0.3467, F1-Score: 0.3020, Precision: 0.3396, Recall: 0.3467
+2025-06-05 18:19:24,489 - INFO - Confusion matrix saved: vgg16_cm_sec3.png
+2025-06-05 18:19:24,489 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-05 18:19:24,759 - INFO - Model saved: ./vgg16_model.h5
+2025-06-05 18:19:24,769 - INFO - Training pipeline completed successfully
+2025-06-06 18:58:04,224 - INFO - Starting prediction pipeline
+2025-06-06 18:58:04,256 - INFO - Loaded new images for prediction: 18 images
+2025-06-06 18:58:04,285 - INFO - Data generator created for predict: 18 images
+2025-06-06 18:58:04,286 - INFO - No augmentation applied for non-training data
+2025-06-06 18:58:05,497 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-06 18:58:05,517 - INFO - Loaded VGG16 model
+2025-06-06 18:58:12,037 - INFO - Predictions saved to ./predictions.csv
+2025-06-06 18:58:12,076 - INFO - Predictions saved to database
+2025-06-06 18:58:12,077 - INFO - Prediction pipeline completed successfully
+2025-06-06 19:15:27,994 - INFO - Starting training pipeline
+2025-06-06 19:15:28,016 - INFO - Loaded train data: 1399 images
+2025-06-06 19:15:28,016 - INFO - Loaded val data: 301 images
+2025-06-06 19:15:28,016 - INFO - Loaded test data: 300 images
+2025-06-06 19:15:28,107 - INFO - Data generator created for train: 1399 images
+2025-06-06 19:15:28,129 - INFO - Data generator created for val: 301 images
+2025-06-06 19:15:28,152 - INFO - Data generator created for test: 300 images
+2025-06-06 19:15:28,210 - INFO - Applied augmentation for training data
+2025-06-06 19:15:28,210 - INFO - No augmentation applied for non-training data
+2025-06-06 19:15:28,210 - INFO - No augmentation applied for non-training data
+2025-06-06 19:15:28,218 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-06 19:15:28,951 - INFO - Training VGG16...
+2025-06-06 19:37:51,947 - INFO - Starting training pipeline
+2025-06-06 19:37:51,956 - INFO - Loaded train data: 1399 images
+2025-06-06 19:37:51,956 - INFO - Loaded val data: 301 images
+2025-06-06 19:37:51,969 - INFO - Loaded test data: 300 images
+2025-06-06 19:37:52,047 - INFO - Data generator created for train: 1399 images
+2025-06-06 19:37:52,066 - INFO - Data generator created for val: 301 images
+2025-06-06 19:37:52,090 - INFO - Data generator created for test: 300 images
+2025-06-06 19:37:52,154 - INFO - Applied augmentation for training data
+2025-06-06 19:37:52,154 - INFO - No augmentation applied for non-training data
+2025-06-06 19:37:52,154 - INFO - No augmentation applied for non-training data
+2025-06-06 19:37:52,162 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-06 19:37:52,739 - INFO - Training VGG16...
+2025-06-06 20:17:10,276 - INFO - VGG16 - Val Accuracy: 0.2857, F1-Score: 0.1846
+2025-06-06 20:17:10,276 - INFO - Evaluating VGG16 on test set...
+2025-06-06 20:18:05,612 - INFO - VGG16 - Test Accuracy: 0.2933, F1-Score: 0.1939, Precision: 0.2881, Recall: 0.2933
+2025-06-06 20:18:07,630 - INFO - Confusion matrix saved: vgg16_cm_sec3.png
+2025-06-06 20:18:07,630 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-06 20:18:07,953 - INFO - Model saved: ./vgg16_model.h5
+2025-06-06 20:18:07,953 - INFO - Training pipeline completed successfully
+2025-06-06 22:50:32,154 - ERROR
+2025-06-06 22:51:44,251 - INFO
+2025-06-06 22:51:44,298 - INFO
+2025-06-06 22:51:44,342 - INFO
+2025-06-06 22:51:44,343 - INFO
+2025-06-06 22:51:44,343 - INFO
+2025-06-06 22:57:42,993 - INFO - Starting training pipeline
+2025-06-06 22:57:43,029 - INFO - Loaded train data: 1400 images
+2025-06-06 22:57:43,031 - INFO - Loaded val data: 300 images
+2025-06-06 22:57:43,034 - INFO - Loaded test data: 300 images
+2025-06-07 00:38:24,849 - INFO - Starting training pipeline
+2025-06-07 00:38:24,880 - INFO - Loaded train data: 1400 images
+2025-06-07 00:38:24,882 - INFO - Loaded val data: 300 images
+2025-06-07 00:38:24,887 - INFO - Loaded test data: 300 images
+2025-06-07 00:38:25,266 - INFO - Applied augmentation for training data
+2025-06-07 00:38:25,326 - INFO - No augmentation applied for non-training data
+2025-06-07 00:38:25,380 - INFO - No augmentation applied for non-training data
+2025-06-07 00:38:25,391 - INFO - Class weights: {0: np.float64(1.0), 1: np.float64(1.0), 2: np.float64(1.0), 3: np.float64(1.0)}
+2025-06-07 00:38:51,566 - INFO - Training VGG16...
+2025-06-07 12:01:22,968 - INFO - Starting training pipeline
+2025-06-07 12:01:23,008 - INFO - Loaded train data: 1399 images
+2025-06-07 12:01:23,014 - INFO - Loaded val data: 301 images
+2025-06-07 12:01:23,014 - INFO - Loaded test data: 300 images
+2025-06-07 12:01:23,261 - INFO - Applied augmentation for training data
+2025-06-07 12:01:23,281 - INFO - No augmentation applied for non-training data
+2025-06-07 12:01:23,303 - INFO - No augmentation applied for non-training data
+2025-06-07 12:01:23,308 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-07 12:01:24,032 - INFO - Training VGG16...
+2025-06-07 12:58:21,955 - INFO - VGG16 - Val Accuracy: 0.9369, F1-Score: 0.9371
+2025-06-07 12:58:21,965 - INFO - Evaluating VGG16 on test set...
+2025-06-07 12:59:13,868 - INFO - VGG16 - Test Accuracy: 0.9400, F1-Score: 0.9400, Precision: 0.9402, Recall: 0.9400
+2025-06-07 12:59:15,535 - INFO - Confusion matrix saved: vgg16_cm_sec3.png
+2025-06-07 12:59:15,543 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-07 12:59:16,081 - INFO - Model saved: ./vgg16_model.h5
+2025-06-07 12:59:16,087 - INFO - Training pipeline completed successfully
+2025-06-07 15:42:09,214 - ERROR - Training pipeline failed: API request to http://127.0.0.1:5000/api/2.0/mlflow/experiments/get-by-name failed with exception HTTPConnectionPool(host='127.0.0.1', port=12334): Max retries exceeded with url: http://127.0.0.1:5000/api/2.0/mlflow/experiments/get-by-name?experiment_name=Dog_Breed_Classification (Caused by ResponseError('too many 502 error responses'))
+2025-06-07 15:44:38,567 - INFO - Starting training pipeline
+2025-06-07 15:44:38,593 - INFO - Loaded train data: 1399 images
+2025-06-07 15:44:38,595 - INFO - Loaded val data: 301 images
+2025-06-07 15:44:38,597 - INFO - Loaded test data: 300 images
+2025-06-07 15:44:38,665 - INFO - Applied augmentation for training data
+2025-06-07 15:44:38,679 - INFO - No augmentation applied for non-training data
+2025-06-07 15:44:38,693 - INFO - No augmentation applied for non-training data
+2025-06-07 15:44:38,978 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-07 15:44:39,663 - INFO - Training VGG16...
+2025-06-07 15:44:41,696 - ERROR - Training failed: Python int too large to convert to C long
+2025-06-07 15:44:41,696 - ERROR - Training pipeline failed: Python int too large to convert to C long
+2025-06-07 15:51:20,944 - ERROR
+2025-06-07 15:53:29,188 - ERROR
+2025-06-07 15:53:58,393 - INFO - Starting training pipeline
+2025-06-07 15:53:58,398 - INFO - Loaded train data: 1399 images
+2025-06-07 15:53:58,400 - INFO - Loaded val data: 301 images
+2025-06-07 15:53:58,402 - INFO - Loaded test data: 300 images
+2025-06-07 15:53:58,450 - INFO - Applied augmentation for training data
+2025-06-07 15:53:58,461 - INFO - No augmentation applied for non-training data
+2025-06-07 15:53:58,475 - INFO - No augmentation applied for non-training data
+2025-06-07 15:53:58,479 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-07 15:53:58,873 - INFO - Training VGG16...
+2025-06-07 15:54:00,444 - ERROR - Training failed: Python int too large to convert to C long
+2025-06-07 15:54:00,445 - ERROR - Training pipeline failed: Python int too large to convert to C long
+2025-06-07 15:55:21,016 - INFO - Starting training pipeline
+2025-06-07 15:55:21,024 - INFO - Loaded train data: 1399 images
+2025-06-07 15:55:21,026 - INFO - Loaded val data: 301 images
+2025-06-07 15:55:21,027 - INFO - Loaded test data: 300 images
+2025-06-07 15:55:21,079 - INFO - Applied augmentation for training data
+2025-06-07 15:55:21,093 - INFO - No augmentation applied for non-training data
+2025-06-07 15:55:21,108 - INFO - No augmentation applied for non-training data
+2025-06-07 15:55:21,112 - INFO - Class weights: {0: 0.9992857142857143, 1: 0.9992857142857143, 2: 1.0021489971346704, 3: 0.9992857142857143}
+2025-06-07 15:55:21,501 - INFO - Training VGG16...
+2025-06-08 10:48:35,568 - INFO - Starting prediction pipeline
+2025-06-08 10:48:35,618 - INFO - Loaded new images for prediction: 20 images
+2025-06-08 10:48:35,631 - INFO - Data generator created for predict: 20 images
+2025-06-08 10:48:35,640 - INFO - No augmentation applied for non-training data
+2025-06-08 10:48:36,213 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-08 10:48:36,221 - INFO - Loaded VGG16 model from local file
+2025-06-08 10:48:39,350 - INFO - Predictions saved to ./predictions.csv
+2025-06-08 10:48:39,390 - INFO - Predictions saved to database
+2025-06-08 10:48:39,390 - INFO - Prediction pipeline completed successfully
+2025-06-08 11:06:14,815 - INFO - Starting prediction visualization
+2025-06-08 11:06:22,298 - INFO - Prediction visualization saved: prediction_comparison.png
+2025-06-08 11:09:10,185 - INFO - Starting prediction visualization
+2025-06-08 11:09:10,618 - ERROR - Missing images in predictions: set()
+2025-06-08 11:09:10,618 - ERROR - Prediction visualization failed: Expected 9 images, found 10
+2025-06-08 11:13:02,612 - INFO - Starting prediction visualization
+2025-06-08 11:13:03,201 - ERROR - Missing images in predictions: {'new_images\\19.jpg', 'new_images\\4.jpg'}
+2025-06-08 11:13:03,201 - ERROR - Prediction visualization failed: Expected 9 images, found 10
+2025-06-08 11:14:14,581 - INFO - Starting prediction visualization
+2025-06-08 11:14:15,023 - ERROR - Missing images in predictions: {'new_images\\19.jpg', 'new_images\\4.jpg'}
+2025-06-08 11:14:15,023 - ERROR - Prediction visualization failed: Expected 9 images, found 10
+2025-06-08 11:16:57,915 - INFO - Starting prediction visualization
+2025-06-08 11:17:04,932 - INFO - Prediction visualization saved: prediction_comparison.png
+2025-06-08 11:18:16,941 - INFO - Starting prediction visualization
+2025-06-08 11:18:23,588 - INFO - Prediction visualization saved: prediction_comparison.png
+2025-06-08 11:21:26,883 - INFO - Starting prediction visualization
+2025-06-08 11:21:27,339 - ERROR - Missing images in predictions: {'new_images\\19.jpg', 'new_images\\15.png'}
+2025-06-08 11:21:27,339 - ERROR - Prediction visualization failed: Expected 12 images, found 10
+2025-06-08 11:21:46,550 - INFO - Starting prediction visualization
+2025-06-08 11:21:47,572 - ERROR - Image not found: new_images\15.jpg
+2025-06-08 11:21:47,572 - ERROR - Prediction visualization failed: Image not found: new_images\15.jpg
+2025-06-08 11:22:29,415 - INFO - Starting prediction visualization
+2025-06-08 11:22:29,909 - ERROR - Missing images in predictions: {'new_images\\15.png', 'new_images\\19.jpg'}
+2025-06-08 11:22:29,909 - ERROR - Prediction visualization failed: Expected 12 images, found 10
+2025-06-08 11:23:28,570 - INFO - Starting prediction pipeline
+2025-06-08 11:23:28,580 - INFO - Loaded new images for prediction: 20 images
+2025-06-08 11:23:28,590 - INFO - Data generator created for predict: 20 images
+2025-06-08 11:23:28,590 - INFO - No augmentation applied for non-training data
+2025-06-08 11:23:29,067 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-08 11:23:29,067 - INFO - Loaded VGG16 model from local file
+2025-06-08 11:23:32,007 - INFO - Predictions saved to ./predictions.csv
+2025-06-08 11:23:32,019 - INFO - Predictions saved to database
+2025-06-08 11:23:32,019 - INFO - Prediction pipeline completed successfully
+2025-06-08 11:25:08,823 - INFO - Starting prediction visualization
+2025-06-08 11:25:15,326 - INFO - Prediction visualization saved: prediction_comparison.png
+2025-06-08 11:28:20,428 - INFO - Starting prediction visualization
+2025-06-08 11:28:20,945 - ERROR - Missing images in predictions: {'new_images\\19.png', 'new_images\\15.jpg'}
+2025-06-08 11:28:20,945 - ERROR - Prediction visualization failed: Expected 12 images, found 10
+2025-06-08 11:28:37,788 - INFO - Starting prediction visualization
+2025-06-08 11:28:38,308 - ERROR - Missing images in predictions: {'new_images\\15.jpg', 'new_images\\19.png'}
+2025-06-08 11:28:38,308 - ERROR - Prediction visualization failed: Expected 12 images, found 10
+2025-06-08 11:29:11,650 - INFO - Starting prediction visualization
+2025-06-08 11:29:12,115 - ERROR - Missing images in predictions: {'new_images\\15.jpg', 'new_images\\19.png'}
+2025-06-08 11:29:12,115 - ERROR - Prediction visualization failed: Expected 12 images, found 10
+2025-06-08 11:30:41,614 - INFO - Starting prediction visualization
+2025-06-08 11:30:47,427 - INFO - Prediction visualization saved: prediction_comparison.png

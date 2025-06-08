@@ -1,0 +1,2001 @@
+Image_File_Path,Breed,Label,Split
+data\dog images\Rottweiler\image_449.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_484.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_328.jpg,Dalmatian,0,train
+data\dog images\Pug\image_64.jpg,Pug,2,train
+data\dog images\Rottweiler\image_159.jpg,Rottweiler,3,train
+data\dog images\Pug\image_304.jpg,Pug,2,train
+data\dog images\Dalmatian\image_273.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_377.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_202.jpg,Pug,2,train
+data\dog images\Pug\image_492.jpg,Pug,2,train
+data\dog images\Rottweiler\image_270.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_447.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_128.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_121.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_178.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_195.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_321.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_181.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_121.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_482.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_487.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_251.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_282.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_310.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_124.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_482.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_116.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_183.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_278.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_288.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_218.jpg,Dalmatian,0,train
+data\dog images\Pug\image_250.jpg,Pug,2,train
+data\dog images\Dalmatian\image_149.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_2.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_486.jpg,Rottweiler,3,train
+data\dog images\Pug\image_227.jpg,Pug,2,train
+data\dog images\Pug\image_192.jpg,Pug,2,train
+data\dog images\Rottweiler\image_342.jpg,Rottweiler,3,train
+data\dog images\Pug\image_294.jpg,Pug,2,train
+data\dog images\Dalmatian\image_370.jpg,Dalmatian,0,train
+data\dog images\Pug\image_233.jpg,Pug,2,train
+data\dog images\Dalmatian\image_61.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_429.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_292.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_497.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_488.jpg,Pug,2,train
+data\dog images\Rottweiler\image_217.jpg,Rottweiler,3,train
+data\dog images\Pug\image_370.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_348.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_499.jpg,Pug,2,train
+data\dog images\Dalmatian\image_140.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_57.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_17.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_322.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_466.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_76.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_6.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_174.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_377.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_416.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_49.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_59.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_285.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_92.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_375.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_63.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_292.jpg,Pug,2,train
+data\dog images\Dalmatian\image_487.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_464.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_189.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_98.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_402.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_116.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_251.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_440.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_430.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_224.jpg,Rottweiler,3,train
+data\dog images\Pug\image_445.jpg,Pug,2,train
+data\dog images\Dalmatian\image_483.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_138.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_326.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_197.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_26.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_16.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_261.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_289.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_41.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_458.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_337.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_328.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_163.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_145.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_475.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_262.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_74.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_225.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_105.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_131.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_349.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_77.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_409.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_299.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_90.jpg,Rottweiler,3,train
+data\dog images\Pug\image_15.jpg,Pug,2,train
+data\dog images\Dalmatian\image_318.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_82.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_112.jpg,Dalmatian,0,train
+data\dog images\Pug\image_255.jpg,Pug,2,train
+data\dog images\Dalmatian\image_269.jpg,Dalmatian,0,train
+data\dog images\Pug\image_193.jpg,Pug,2,train
+data\dog images\Rottweiler\image_191.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_413.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_78.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_228.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_204.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_64.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_442.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_140.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_253.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_212.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_173.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_48.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_270.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_347.jpg,Dalmatian,0,train
+data\dog images\Pug\image_346.jpg,Pug,2,train
+data\dog images\Dalmatian\image_298.jpg,Dalmatian,0,train
+data\dog images\Pug\image_235.jpg,Pug,2,train
+data\dog images\Pug\image_148.jpg,Pug,2,train
+data\dog images\Dalmatian\image_433.jpg,Dalmatian,0,train
+data\dog images\Pug\image_189.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_318.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_181.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_343.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_105.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_225.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_154.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_492.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_5.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_303.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_368.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_418.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_437.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_412.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_443.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_8.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_46.jpg,Rottweiler,3,train
+data\dog images\Pug\image_145.jpg,Pug,2,train
+data\dog images\Rottweiler\image_393.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_335.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_290.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_274.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_127.jpg,Pug,2,train
+data\dog images\Pug\image_375.jpg,Pug,2,train
+data\dog images\Rottweiler\image_419.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_190.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_17.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_30.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_401.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_227.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_209.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_275.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_476.jpg,Dalmatian,0,train
+data\dog images\Pug\image_4.jpg,Pug,2,train
+data\dog images\Rottweiler\image_49.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_384.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_488.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_441.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_67.jpg,Rottweiler,3,train
+data\dog images\Pug\image_299.jpg,Pug,2,train
+data\dog images\Dalmatian\image_283.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_395.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_235.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_110.jpg,Dalmatian,0,train
+data\dog images\Pug\image_218.jpg,Pug,2,train
+data\dog images\Pug\image_451.jpg,Pug,2,train
+data\dog images\Pug\image_374.jpg,Pug,2,train
+data\dog images\Pug\image_400.jpg,Pug,2,train
+data\dog images\Pug\image_71.jpg,Pug,2,train
+data\dog images\Rottweiler\image_78.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_145.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_161.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_18.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_33.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_59.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_337.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_240.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_317.jpg,Dalmatian,0,train
+data\dog images\Pug\image_28.jpg,Pug,2,train
+data\dog images\Dalmatian\image_255.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_199.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_386.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_278.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_294.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_262.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_332.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_184.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_53.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_314.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_15.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_185.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_343.jpg,Dalmatian,0,train
+data\dog images\Pug\image_312.jpg,Pug,2,train
+data\dog images\Dalmatian\image_246.jpg,Dalmatian,0,train
+data\dog images\Pug\image_121.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_77.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_420.jpg,Dalmatian,0,train
+data\dog images\Pug\image_57.jpg,Pug,2,train
+data\dog images\Pug\image_280.jpg,Pug,2,train
+data\dog images\Rottweiler\image_258.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_137.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_374.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_478.jpg,Rottweiler,3,train
+data\dog images\Pug\image_484.jpg,Pug,2,train
+data\dog images\Dalmatian\image_406.jpg,Dalmatian,0,train
+data\dog images\Pug\image_355.jpg,Pug,2,train
+data\dog images\Pug\image_457.jpg,Pug,2,train
+data\dog images\Rottweiler\image_500.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_499.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_413.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_219.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_62.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_135.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_346.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_371.jpg,Pug,2,train
+data\dog images\Pug\image_331.jpg,Pug,2,train
+data\dog images\Pug\image_264.jpg,Pug,2,train
+data\dog images\Dalmatian\image_223.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_246.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_42.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_303.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_165.jpg,Pug,2,train
+data\dog images\Dalmatian\image_43.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_206.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_51.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_7.jpg,Pug,2,train
+data\dog images\Rottweiler\image_466.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_305.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_210.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_385.jpg,Rottweiler,3,train
+data\dog images\Pug\image_92.jpg,Pug,2,train
+data\dog images\Dalmatian\image_212.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_354.jpg,Rottweiler,3,train
+data\dog images\Pug\image_448.jpg,Pug,2,train
+data\dog images\Dalmatian\image_363.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_481.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_291.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_112.jpg,Rottweiler,3,train
+data\dog images\Pug\image_103.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_171.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_306.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_167.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_156.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_380.jpg,Dalmatian,0,train
+data\dog images\Pug\image_99.jpg,Pug,2,train
+data\dog images\Dalmatian\image_211.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_36.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_123.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_248.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_359.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_208.jpg,Pug,2,train
+data\dog images\Rottweiler\image_307.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_378.jpg,Rottweiler,3,train
+data\dog images\Pug\image_77.jpg,Pug,2,train
+data\dog images\Pug\image_432.jpg,Pug,2,train
+data\dog images\Pug\image_441.jpg,Pug,2,train
+data\dog images\Dalmatian\image_268.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_171.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_164.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_85.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_211.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_497.jpg,Rottweiler,3,train
+data\dog images\Pug\image_169.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_464.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_149.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_395.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_408.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_289.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_63.jpg,Dalmatian,0,train
+data\dog images\Pug\image_422.jpg,Pug,2,train
+data\dog images\Dalmatian\image_101.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_222.jpg,Rottweiler,3,train
+data\dog images\Pug\image_437.jpg,Pug,2,train
+data\dog images\Rottweiler\image_79.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_457.jpg,Rottweiler,3,train
+data\dog images\Pug\image_315.jpg,Pug,2,train
+data\dog images\Rottweiler\image_223.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_316.jpg,Rottweiler,3,train
+data\dog images\Pug\image_388.jpg,Pug,2,train
+data\dog images\Rottweiler\image_237.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_144.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_356.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_468.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_226.jpg,Pug,2,train
+data\dog images\Dalmatian\image_84.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_98.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_281.jpg,Dalmatian,0,train
+data\dog images\Pug\image_495.jpg,Pug,2,train
+data\dog images\Rottweiler\image_143.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_261.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_39.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_226.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_327.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_74.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_103.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_327.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_87.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_323.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_141.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_404.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_440.jpg,Pug,2,train
+data\dog images\Rottweiler\image_106.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_451.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_267.jpg,Dalmatian,0,train
+data\dog images\Pug\image_402.jpg,Pug,2,train
+data\dog images\Rottweiler\image_309.jpg,Rottweiler,3,train
+data\dog images\Pug\image_449.jpg,Pug,2,train
+data\dog images\Dalmatian\image_169.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_157.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_66.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_222.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_27.jpg,Pug,2,train
+data\dog images\Rottweiler\image_200.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_157.jpg,Rottweiler,3,train
+data\dog images\Pug\image_298.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_388.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_312.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_335.jpg,Dalmatian,0,train
+data\dog images\Pug\image_385.jpg,Pug,2,train
+data\dog images\Rottweiler\image_439.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_449.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_255.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_86.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_45.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_203.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_107.jpg,Rottweiler,3,train
+data\dog images\Pug\image_496.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_289.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_178.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_248.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_52.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_64.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_208.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_490.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_343.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_44.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_352.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_443.jpg,Dalmatian,0,train
+data\dog images\Pug\image_430.jpg,Pug,2,train
+data\dog images\Rottweiler\image_373.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_37.jpg,Rottweiler,3,train
+data\dog images\Pug\image_429.jpg,Pug,2,train
+data\dog images\Pug\image_276.jpg,Pug,2,train
+data\dog images\Dalmatian\image_393.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_155.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_230.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_284.jpg,Dalmatian,0,train
+data\dog images\Pug\image_470.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_260.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_20.jpg,Dalmatian,0,train
+data\dog images\Pug\image_362.jpg,Pug,2,train
+data\dog images\Rottweiler\image_415.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_286.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_465.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_58.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_321.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_319.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_306.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_173.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_7.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_385.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_436.jpg,Pug,2,train
+data\dog images\Pug\image_234.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_11.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_1.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_52.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_194.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_295.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_85.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_52.jpg,Pug,2,train
+data\dog images\Rottweiler\image_55.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_430.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_125.jpg,Rottweiler,3,train
+data\dog images\Pug\image_108.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_438.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_28.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_437.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_399.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_435.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_467.jpg,Pug,2,train
+data\dog images\Rottweiler\image_387.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_352.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_213.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_379.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_254.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_412.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_284.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_231.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_378.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_213.jpg,Rottweiler,3,train
+data\dog images\Pug\image_357.jpg,Pug,2,train
+data\dog images\Rottweiler\image_198.jpg,Rottweiler,3,train
+data\dog images\Pug\image_183.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_172.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_198.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_304.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_442.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_297.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_237.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_293.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_111.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_102.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_480.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_385.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_7.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_26.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_215.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_463.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_365.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_336.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_308.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_430.jpg,Rottweiler,3,train
+data\dog images\Pug\image_287.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_148.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_87.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_450.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_354.jpg,Pug,2,train
+data\dog images\Dalmatian\image_252.jpg,Dalmatian,0,train
+data\dog images\Pug\image_124.jpg,Pug,2,train
+data\dog images\Pug\image_220.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_307.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_98.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_495.jpg,Dalmatian,0,train
+data\dog images\Pug\image_367.jpg,Pug,2,train
+data\dog images\Rottweiler\image_329.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_304.jpg,Dalmatian,0,train
+data\dog images\Pug\image_300.jpg,Pug,2,train
+data\dog images\Dalmatian\image_123.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_339.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_156.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_108.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_128.jpg,Pug,2,train
+data\dog images\Rottweiler\image_122.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_312.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_454.jpg,Dalmatian,0,train
+data\dog images\Pug\image_157.jpg,Pug,2,train
+data\dog images\Pug\image_195.jpg,Pug,2,train
+data\dog images\Rottweiler\image_398.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_275.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_401.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_171.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_300.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_62.jpg,Rottweiler,3,train
+data\dog images\Pug\image_106.jpg,Pug,2,train
+data\dog images\Pug\image_54.jpg,Pug,2,train
+data\dog images\Rottweiler\image_287.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_355.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_166.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_324.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_406.jpg,Rottweiler,3,train
+data\dog images\Pug\image_209.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_300.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_80.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_317.jpg,Pug,2,train
+data\dog images\Pug\image_358.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_229.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_331.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_182.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_473.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_458.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_218.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_279.jpg,Pug,2,train
+data\dog images\Rottweiler\image_205.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_231.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_415.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_286.jpg,Dalmatian,0,train
+data\dog images\Pug\image_240.jpg,Pug,2,train
+data\dog images\Pug\image_174.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_252.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_119.jpg,Pug,2,train
+data\dog images\Dalmatian\image_330.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_423.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_213.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_394.jpg,Pug,2,train
+data\dog images\Rottweiler\image_72.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_320.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_381.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_461.jpg,Dalmatian,0,train
+data\dog images\Pug\image_314.jpg,Pug,2,train
+data\dog images\Dalmatian\image_282.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_300.jpg,Rottweiler,3,train
+data\dog images\Pug\image_342.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_494.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_54.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_160.jpg,Rottweiler,3,train
+data\dog images\Pug\image_372.jpg,Pug,2,train
+data\dog images\Pug\image_258.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_428.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_335.jpg,Pug,2,train
+data\dog images\Dalmatian\image_260.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_356.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_377.jpg,Pug,2,train
+data\dog images\Dalmatian\image_69.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_389.jpg,Dalmatian,0,train
+data\dog images\Pug\image_78.jpg,Pug,2,train
+data\dog images\Rottweiler\image_64.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_32.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_65.jpg,Pug,2,train
+data\dog images\Dalmatian\image_210.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_259.jpg,Dalmatian,0,train
+data\dog images\Pug\image_384.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_226.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_452.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_477.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_465.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_455.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_90.jpg,Dalmatian,0,train
+data\dog images\Pug\image_112.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_423.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_466.jpg,Pug,2,train
+data\dog images\Pug\image_134.jpg,Pug,2,train
+data\dog images\Dalmatian\image_115.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_332.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_217.jpg,Pug,2,train
+data\dog images\Rottweiler\image_350.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_233.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_69.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_463.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_439.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_456.jpg,Rottweiler,3,train
+data\dog images\Pug\image_290.jpg,Pug,2,train
+data\dog images\Pug\image_100.jpg,Pug,2,train
+data\dog images\Dalmatian\image_60.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_241.jpg,Dalmatian,0,train
+data\dog images\Pug\image_190.jpg,Pug,2,train
+data\dog images\Rottweiler\image_461.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_21.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_397.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_109.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_123.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_129.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_444.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_354.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_223.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_304.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_378.jpg,Dalmatian,0,train
+data\dog images\Pug\image_468.jpg,Pug,2,train
+data\dog images\Pug\image_471.jpg,Pug,2,train
+data\dog images\Pug\image_464.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_451.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_83.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_366.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_168.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_162.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_326.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_66.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_319.jpg,Dalmatian,0,train
+data\dog images\Pug\image_83.jpg,Pug,2,train
+data\dog images\Dalmatian\image_455.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_350.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_376.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_334.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_315.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_57.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_206.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_334.jpg,Rottweiler,3,train
+data\dog images\Pug\image_330.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_401.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_332.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_129.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_132.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_201.jpg,Dalmatian,0,train
+data\dog images\Pug\image_411.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_188.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_347.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_38.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_345.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_164.jpg,Pug,2,train
+data\dog images\Pug\image_257.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_17.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_479.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_364.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_12.jpg,Pug,2,train
+data\dog images\Dalmatian\image_165.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_322.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_383.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_102.jpg,Dalmatian,0,train
+data\dog images\Pug\image_351.jpg,Pug,2,train
+data\dog images\Pug\image_8.jpg,Pug,2,train
+data\dog images\Rottweiler\image_372.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_500.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_282.jpg,Pug,2,train
+data\dog images\Rottweiler\image_477.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_70.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_299.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_154.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_24.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_170.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_384.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_139.jpg,Dalmatian,0,train
+data\dog images\Pug\image_249.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_190.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_301.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_175.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_158.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_237.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_53.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_353.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_311.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_263.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_187.jpg,Pug,2,train
+data\dog images\Dalmatian\image_153.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_245.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_116.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_272.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_301.jpg,Rottweiler,3,train
+data\dog images\Pug\image_274.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_239.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_461.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_158.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_21.jpg,Pug,2,train
+data\dog images\Rottweiler\image_325.jpg,Rottweiler,3,train
+data\dog images\Pug\image_340.jpg,Pug,2,train
+data\dog images\Rottweiler\image_333.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_382.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_62.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_153.jpg,Pug,2,train
+data\dog images\Pug\image_50.jpg,Pug,2,train
+data\dog images\Pug\image_133.jpg,Pug,2,train
+data\dog images\Rottweiler\image_26.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_33.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_71.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_475.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_75.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_496.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_424.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_419.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_491.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_127.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_194.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_39.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_390.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_462.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_242.jpg,Rottweiler,3,train
+data\dog images\Pug\image_363.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_319.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_273.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_94.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_454.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_84.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_207.jpg,Dalmatian,0,train
+data\dog images\Pug\image_93.jpg,Pug,2,train
+data\dog images\Rottweiler\image_240.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_34.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_54.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_317.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_429.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_56.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_79.jpg,Dalmatian,0,train
+data\dog images\Pug\image_482.jpg,Pug,2,train
+data\dog images\Rottweiler\image_77.jpg,Rottweiler,3,train
+data\dog images\Pug\image_129.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_234.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_6.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_397.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_14.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_150.jpg,Pug,2,train
+data\dog images\Pug\image_306.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_361.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_389.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_263.jpg,Dalmatian,0,train
+data\dog images\Pug\image_199.jpg,Pug,2,train
+data\dog images\Rottweiler\image_499.jpg,Rottweiler,3,train
+data\dog images\Pug\image_239.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_342.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_249.jpg,Rottweiler,3,train
+data\dog images\Pug\image_6.jpg,Pug,2,train
+data\dog images\Pug\image_58.jpg,Pug,2,train
+data\dog images\Pug\image_403.jpg,Pug,2,train
+data\dog images\Dalmatian\image_302.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_362.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_408.jpg,Dalmatian,0,train
+data\dog images\Pug\image_359.jpg,Pug,2,train
+data\dog images\Pug\image_428.jpg,Pug,2,train
+data\dog images\Dalmatian\image_94.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_361.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_449.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_405.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_436.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_496.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_381.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_231.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_250.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_129.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_50.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_133.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_97.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_256.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_119.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_164.jpg,Rottweiler,3,train
+data\dog images\Pug\image_268.jpg,Pug,2,train
+data\dog images\Pug\image_136.jpg,Pug,2,train
+data\dog images\Pug\image_151.jpg,Pug,2,train
+data\dog images\Dalmatian\image_247.jpg,Dalmatian,0,train
+data\dog images\Pug\image_431.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_267.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_456.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_87.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_188.jpg,Pug,2,train
+data\dog images\Rottweiler\image_241.jpg,Rottweiler,3,train
+data\dog images\Pug\image_122.jpg,Pug,2,train
+data\dog images\Rottweiler\image_388.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_132.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_91.jpg,Rottweiler,3,train
+data\dog images\Pug\image_424.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_426.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_10.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_25.jpg,Pug,2,train
+data\dog images\Rottweiler\image_130.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_390.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_11.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_60.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_202.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_81.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_24.jpg,Pug,2,train
+data\dog images\Dalmatian\image_82.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_186.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_243.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_411.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_439.jpg,Pug,2,train
+data\dog images\Pug\image_453.jpg,Pug,2,train
+data\dog images\Rottweiler\image_57.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_133.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_398.jpg,Dalmatian,0,train
+data\dog images\Pug\image_185.jpg,Pug,2,train
+data\dog images\Pug\image_156.jpg,Pug,2,train
+data\dog images\Pug\image_29.jpg,Pug,2,train
+data\dog images\Rottweiler\image_93.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_489.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_360.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_313.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_469.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_426.jpg,Pug,2,train
+data\dog images\Pug\image_369.jpg,Pug,2,train
+data\dog images\Pug\image_201.jpg,Pug,2,train
+data\dog images\Rottweiler\image_480.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_350.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_139.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_414.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_233.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_62.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_30.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_468.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_232.jpg,Dalmatian,0,train
+data\dog images\Pug\image_68.jpg,Pug,2,train
+data\dog images\Rottweiler\image_295.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_214.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_97.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_89.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_410.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_352.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_176.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_223.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_298.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_444.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_462.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_184.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_417.jpg,Pug,2,train
+data\dog images\Pug\image_114.jpg,Pug,2,train
+data\dog images\Dalmatian\image_151.jpg,Dalmatian,0,train
+data\dog images\Pug\image_141.jpg,Pug,2,train
+data\dog images\Rottweiler\image_14.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_27.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_367.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_270.jpg,Dalmatian,0,train
+data\dog images\Pug\image_11.jpg,Pug,2,train
+data\dog images\Dalmatian\image_214.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_411.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_120.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_375.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_73.jpg,Dalmatian,0,train
+data\dog images\Pug\image_347.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_243.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_2.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_181.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_8.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_180.jpg,Rottweiler,3,train
+data\dog images\Pug\image_37.jpg,Pug,2,train
+data\dog images\Pug\image_455.jpg,Pug,2,train
+data\dog images\Rottweiler\image_179.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_310.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_372.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_389.jpg,Pug,2,train
+data\dog images\Dalmatian\image_166.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_243.jpg,Rottweiler,3,train
+data\dog images\Pug\image_248.jpg,Pug,2,train
+data\dog images\Rottweiler\image_335.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_37.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_484.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_8.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_50.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_219.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_495.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_233.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_467.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_147.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_155.jpg,Dalmatian,0,train
+data\dog images\Pug\image_416.jpg,Pug,2,train
+data\dog images\Pug\image_427.jpg,Pug,2,train
+data\dog images\Dalmatian\image_395.jpg,Dalmatian,0,train
+data\dog images\Pug\image_447.jpg,Pug,2,train
+data\dog images\Dalmatian\image_336.jpg,Dalmatian,0,train
+data\dog images\Pug\image_170.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_470.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_421.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_403.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_50.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_147.jpg,Dalmatian,0,train
+data\dog images\Pug\image_295.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_174.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_267.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_315.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_420.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_222.jpg,Dalmatian,0,train
+data\dog images\Pug\image_242.jpg,Pug,2,train
+data\dog images\Dalmatian\image_358.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_46.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_439.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_128.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_224.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_226.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_402.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_137.jpg,Dalmatian,0,train
+data\dog images\Pug\image_75.jpg,Pug,2,train
+data\dog images\Pug\image_98.jpg,Pug,2,train
+data\dog images\Rottweiler\image_63.jpg,Rottweiler,3,train
+data\dog images\Pug\image_211.jpg,Pug,2,train
+data\dog images\Pug\image_281.jpg,Pug,2,train
+data\dog images\Pug\image_262.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_362.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_392.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_284.jpg,Rottweiler,3,train
+data\dog images\Pug\image_74.jpg,Pug,2,train
+data\dog images\Rottweiler\image_296.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_263.jpg,Rottweiler,3,train
+data\dog images\Pug\image_243.jpg,Pug,2,train
+data\dog images\Dalmatian\image_463.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_452.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_278.jpg,Pug,2,train
+data\dog images\Dalmatian\image_445.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_185.jpg,Dalmatian,0,train
+data\dog images\Pug\image_36.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_145.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_41.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_383.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_119.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_361.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_31.jpg,Dalmatian,0,train
+data\dog images\Pug\image_155.jpg,Pug,2,train
+data\dog images\Rottweiler\image_162.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_173.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_456.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_47.jpg,Dalmatian,0,train
+data\dog images\Pug\image_175.jpg,Pug,2,train
+data\dog images\Rottweiler\image_297.jpg,Rottweiler,3,train
+data\dog images\Pug\image_89.jpg,Pug,2,train
+data\dog images\Pug\image_309.jpg,Pug,2,train
+data\dog images\Dalmatian\image_193.jpg,Dalmatian,0,train
+data\dog images\Pug\image_366.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_15.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_158.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_56.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_498.jpg,Rottweiler,3,train
+data\dog images\Pug\image_85.jpg,Pug,2,train
+data\dog images\Dalmatian\image_472.jpg,Dalmatian,0,train
+data\dog images\Pug\image_49.jpg,Pug,2,train
+data\dog images\Pug\image_337.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_22.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_23.jpg,Pug,2,train
+data\dog images\Pug\image_398.jpg,Pug,2,train
+data\dog images\Dalmatian\image_11.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_259.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_484.jpg,Rottweiler,3,train
+data\dog images\Pug\image_96.jpg,Pug,2,train
+data\dog images\Rottweiler\image_35.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_132.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_220.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_16.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_131.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_127.jpg,Rottweiler,3,train
+data\dog images\Pug\image_205.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_296.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_60.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_422.jpg,Rottweiler,3,train
+data\dog images\Pug\image_163.jpg,Pug,2,train
+data\dog images\Dalmatian\image_143.jpg,Dalmatian,0,train
+data\dog images\Pug\image_110.jpg,Pug,2,train
+data\dog images\Pug\image_203.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_21.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_55.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_205.jpg,Dalmatian,0,train
+data\dog images\Pug\image_109.jpg,Pug,2,train
+data\dog images\Dalmatian\image_421.jpg,Dalmatian,0,train
+data\dog images\Pug\image_454.jpg,Pug,2,train
+data\dog images\Dalmatian\image_479.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_356.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_208.jpg,Dalmatian,0,train
+data\dog images\Pug\image_42.jpg,Pug,2,train
+data\dog images\Pug\image_254.jpg,Pug,2,train
+data\dog images\Rottweiler\image_216.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_293.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_485.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_471.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_148.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_108.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_169.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_159.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_150.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_298.jpg,Rottweiler,3,train
+data\dog images\Pug\image_120.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_122.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_143.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_244.jpg,Rottweiler,3,train
+data\dog images\Pug\image_246.jpg,Pug,2,train
+data\dog images\Dalmatian\image_427.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_47.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_262.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_447.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_365.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_380.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_317.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_252.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_114.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_259.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_162.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_351.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_230.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_149.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_117.jpg,Rottweiler,3,train
+data\dog images\Pug\image_200.jpg,Pug,2,train
+data\dog images\Dalmatian\image_34.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_148.jpg,Rottweiler,3,train
+data\dog images\Pug\image_66.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_393.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_46.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_218.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_4.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_100.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_404.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_67.jpg,Dalmatian,0,train
+data\dog images\Pug\image_194.jpg,Pug,2,train
+data\dog images\Rottweiler\image_207.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_195.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_448.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_394.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_482.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_104.jpg,Rottweiler,3,train
+data\dog images\Pug\image_40.jpg,Pug,2,train
+data\dog images\Dalmatian\image_434.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_481.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_463.jpg,Pug,2,train
+data\dog images\Dalmatian\image_417.jpg,Dalmatian,0,train
+data\dog images\Pug\image_266.jpg,Pug,2,train
+data\dog images\Dalmatian\image_374.jpg,Dalmatian,0,train
+data\dog images\Pug\image_332.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_197.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_392.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_488.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_443.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_180.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_6.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_153.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_204.jpg,Rottweiler,3,train
+data\dog images\Pug\image_115.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_301.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_391.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_323.jpg,Rottweiler,3,train
+data\dog images\Pug\image_144.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_109.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_162.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_175.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_216.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_201.jpg,Rottweiler,3,train
+data\dog images\Pug\image_263.jpg,Pug,2,train
+data\dog images\Rottweiler\image_374.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_264.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_406.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_395.jpg,Pug,2,train
+data\dog images\Rottweiler\image_279.jpg,Rottweiler,3,train
+data\dog images\Pug\image_456.jpg,Pug,2,train
+data\dog images\Rottweiler\image_257.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_114.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_20.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_70.jpg,Pug,2,train
+data\dog images\Dalmatian\image_409.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_219.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_338.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_465.jpg,Rottweiler,3,train
+data\dog images\Pug\image_462.jpg,Pug,2,train
+data\dog images\Pug\image_86.jpg,Pug,2,train
+data\dog images\Dalmatian\image_113.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_421.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_232.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_244.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_214.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_66.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_269.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_256.jpg,Dalmatian,0,train
+data\dog images\Pug\image_107.jpg,Pug,2,train
+data\dog images\Dalmatian\image_416.jpg,Dalmatian,0,train
+data\dog images\Pug\image_237.jpg,Pug,2,train
+data\dog images\Pug\image_210.jpg,Pug,2,train
+data\dog images\Dalmatian\image_405.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_68.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_433.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_498.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_414.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_365.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_31.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_7.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_203.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_391.jpg,Rottweiler,3,train
+data\dog images\Pug\image_41.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_127.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_311.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_425.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_370.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_207.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_338.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_250.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_312.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_253.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_200.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_12.jpg,Rottweiler,3,train
+data\dog images\Pug\image_341.jpg,Pug,2,train
+data\dog images\Pug\image_322.jpg,Pug,2,train
+data\dog images\Dalmatian\image_396.jpg,Dalmatian,0,train
+data\dog images\Pug\image_396.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_86.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_434.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_231.jpg,Dalmatian,0,train
+data\dog images\Pug\image_421.jpg,Pug,2,train
+data\dog images\Pug\image_288.jpg,Pug,2,train
+data\dog images\Rottweiler\image_330.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_182.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_398.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_290.jpg,Rottweiler,3,train
+data\dog images\Pug\image_80.jpg,Pug,2,train
+data\dog images\Dalmatian\image_285.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_246.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_221.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_338.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_69.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_45.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_211.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_109.jpg,Dalmatian,0,train
+data\dog images\Pug\image_179.jpg,Pug,2,train
+data\dog images\Dalmatian\image_177.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_483.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_327.jpg,Rottweiler,3,train
+data\dog images\Pug\image_302.jpg,Pug,2,train
+data\dog images\Rottweiler\image_232.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_437.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_71.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_404.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_271.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_238.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_83.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_56.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_236.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_172.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_126.jpg,Rottweiler,3,train
+data\dog images\Pug\image_313.jpg,Pug,2,train
+data\dog images\Rottweiler\image_220.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_136.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_260.jpg,Pug,2,train
+data\dog images\Pug\image_285.jpg,Pug,2,train
+data\dog images\Pug\image_160.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_151.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_425.jpg,Dalmatian,0,train
+data\dog images\Pug\image_442.jpg,Pug,2,train
+data\dog images\Dalmatian\image_117.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_366.jpg,Dalmatian,0,train
+data\dog images\Pug\image_2.jpg,Pug,2,train
+data\dog images\Pug\image_204.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_288.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_431.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_32.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_432.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_461.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_10.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_212.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_136.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_1.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_126.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_370.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_95.jpg,Dalmatian,0,train
+data\dog images\Pug\image_379.jpg,Pug,2,train
+data\dog images\Dalmatian\image_453.jpg,Dalmatian,0,train
+data\dog images\Pug\image_391.jpg,Pug,2,train
+data\dog images\Pug\image_491.jpg,Pug,2,train
+data\dog images\Dalmatian\image_217.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_464.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_254.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_187.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_266.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_173.jpg,Pug,2,train
+data\dog images\Dalmatian\image_216.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_146.jpg,Dalmatian,0,train
+data\dog images\Pug\image_423.jpg,Pug,2,train
+data\dog images\Pug\image_378.jpg,Pug,2,train
+data\dog images\Pug\image_213.jpg,Pug,2,train
+data\dog images\Pug\image_392.jpg,Pug,2,train
+data\dog images\Pug\image_230.jpg,Pug,2,train
+data\dog images\Pug\image_88.jpg,Pug,2,train
+data\dog images\Rottweiler\image_31.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_351.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_248.jpg,Dalmatian,0,train
+data\dog images\Pug\image_125.jpg,Pug,2,train
+data\dog images\Rottweiler\image_291.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_309.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_22.jpg,Pug,2,train
+data\dog images\Pug\image_272.jpg,Pug,2,train
+data\dog images\Rottweiler\image_273.jpg,Rottweiler,3,train
+data\dog images\Pug\image_420.jpg,Pug,2,train
+data\dog images\Rottweiler\image_434.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_100.jpg,Rottweiler,3,train
+data\dog images\Pug\image_244.jpg,Pug,2,train
+data\dog images\Rottweiler\image_358.jpg,Rottweiler,3,train
+data\dog images\Pug\image_477.jpg,Pug,2,train
+data\dog images\Pug\image_207.jpg,Pug,2,train
+data\dog images\Pug\image_146.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_199.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_42.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_13.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_492.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_345.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_28.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_260.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_189.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_443.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_472.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_30.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_106.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_177.jpg,Pug,2,train
+data\dog images\Pug\image_186.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_70.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_433.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_280.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_197.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_165.jpg,Rottweiler,3,train
+data\dog images\Pug\image_117.jpg,Pug,2,train
+data\dog images\Dalmatian\image_387.jpg,Dalmatian,0,train
+data\dog images\Pug\image_43.jpg,Pug,2,train
+data\dog images\Rottweiler\image_363.jpg,Rottweiler,3,train
+data\dog images\Pug\image_401.jpg,Pug,2,train
+data\dog images\Dalmatian\image_485.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_71.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_20.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_353.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_28.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_198.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_294.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_155.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_63.jpg,Pug,2,train
+data\dog images\Dalmatian\image_134.jpg,Dalmatian,0,train
+data\dog images\Pug\image_289.jpg,Pug,2,train
+data\dog images\Rottweiler\image_234.jpg,Rottweiler,3,train
+data\dog images\Pug\image_494.jpg,Pug,2,train
+data\dog images\Pug\image_143.jpg,Pug,2,train
+data\dog images\Dalmatian\image_468.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_241.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_450.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_43.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_27.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_72.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_321.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_68.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_392.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_455.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_310.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_138.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_279.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_313.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_286.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_277.jpg,Pug,2,train
+data\dog images\Rottweiler\image_494.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_113.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_19.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_154.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_291.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_229.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_174.jpg,Dalmatian,0,train
+data\dog images\Pug\image_489.jpg,Pug,2,train
+data\dog images\Pug\image_221.jpg,Pug,2,train
+data\dog images\Dalmatian\image_353.jpg,Dalmatian,0,train
+data\dog images\Pug\image_18.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_119.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_310.jpg,Pug,2,train
+data\dog images\Rottweiler\image_68.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_371.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_3.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_272.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_196.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_80.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_156.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_138.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_82.jpg,Rottweiler,3,train
+data\dog images\Pug\image_364.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_146.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_48.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_467.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_475.jpg,Pug,2,train
+data\dog images\Dalmatian\image_136.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_22.jpg,Rottweiler,3,train
+data\dog images\Pug\image_383.jpg,Pug,2,train
+data\dog images\Rottweiler\image_228.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_130.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_367.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_478.jpg,Pug,2,train
+data\dog images\Dalmatian\image_172.jpg,Dalmatian,0,train
+data\dog images\Pug\image_485.jpg,Pug,2,train
+data\dog images\Dalmatian\image_441.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_92.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_106.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_58.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_325.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_195.jpg,Dalmatian,0,train
+data\dog images\Pug\image_167.jpg,Pug,2,train
+data\dog images\Rottweiler\image_42.jpg,Rottweiler,3,train
+data\dog images\Pug\image_224.jpg,Pug,2,train
+data\dog images\Dalmatian\image_91.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_139.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_478.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_117.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_315.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_128.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_157.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_169.jpg,Rottweiler,3,train
+data\dog images\Pug\image_405.jpg,Pug,2,train
+data\dog images\Pug\image_323.jpg,Pug,2,train
+data\dog images\Dalmatian\image_199.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_479.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_124.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_313.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_103.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_14.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_373.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_327.jpg,Pug,2,train
+data\dog images\Dalmatian\image_141.jpg,Dalmatian,0,train
+data\dog images\Pug\image_412.jpg,Pug,2,train
+data\dog images\Pug\image_452.jpg,Pug,2,train
+data\dog images\Pug\image_79.jpg,Pug,2,train
+data\dog images\Dalmatian\image_351.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_134.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_368.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_238.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_94.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_355.jpg,Dalmatian,0,train
+data\dog images\Pug\image_123.jpg,Pug,2,train
+data\dog images\Dalmatian\image_142.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_48.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_297.jpg,Pug,2,train
+data\dog images\Rottweiler\image_368.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_205.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_137.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_82.jpg,Pug,2,train
+data\dog images\Dalmatian\image_418.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_369.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_76.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_303.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_422.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_9.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_486.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_266.jpg,Dalmatian,0,train
+data\dog images\Pug\image_232.jpg,Pug,2,train
+data\dog images\Dalmatian\image_288.jpg,Dalmatian,0,train
+data\dog images\Pug\image_360.jpg,Pug,2,train
+data\dog images\Pug\image_44.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_113.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_36.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_229.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_203.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_40.jpg,Dalmatian,0,train
+data\dog images\Pug\image_352.jpg,Pug,2,train
+data\dog images\Pug\image_241.jpg,Pug,2,train
+data\dog images\Rottweiler\image_410.jpg,Rottweiler,3,train
+data\dog images\Pug\image_446.jpg,Pug,2,train
+data\dog images\Dalmatian\image_116.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_425.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_278.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_180.jpg,Pug,2,train
+data\dog images\Dalmatian\image_86.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_168.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_224.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_37.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_369.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_91.jpg,Pug,2,train
+data\dog images\Rottweiler\image_268.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_427.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_435.jpg,Rottweiler,3,train
+data\dog images\Pug\image_216.jpg,Pug,2,train
+data\dog images\Dalmatian\image_306.jpg,Dalmatian,0,train
+data\dog images\Pug\image_469.jpg,Pug,2,train
+data\dog images\Rottweiler\image_53.jpg,Rottweiler,3,train
+data\dog images\Pug\image_197.jpg,Pug,2,train
+data\dog images\Pug\image_307.jpg,Pug,2,train
+data\dog images\Dalmatian\image_403.jpg,Dalmatian,0,train
+data\dog images\Pug\image_348.jpg,Pug,2,train
+data\dog images\Pug\image_196.jpg,Pug,2,train
+data\dog images\Rottweiler\image_394.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_193.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_368.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_316.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_249.jpg,Dalmatian,0,train
+data\dog images\Pug\image_206.jpg,Pug,2,train
+data\dog images\Dalmatian\image_200.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_115.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_471.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_275.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_250.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_99.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_159.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_447.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_428.jpg,Rottweiler,3,train
+data\dog images\Pug\image_97.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_144.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_473.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_472.jpg,Rottweiler,3,train
+data\dog images\Pug\image_251.jpg,Pug,2,train
+data\dog images\Dalmatian\image_354.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_135.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_491.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_27.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_407.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_343.jpg,Pug,2,train
+data\dog images\Dalmatian\image_179.jpg,Dalmatian,0,train
+data\dog images\Pug\image_73.jpg,Pug,2,train
+data\dog images\Dalmatian\image_228.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_492.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_221.jpg,Dalmatian,0,train
+data\dog images\Pug\image_404.jpg,Pug,2,train
+data\dog images\Rottweiler\image_473.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_372.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_87.jpg,Rottweiler,3,train
+data\dog images\Pug\image_215.jpg,Pug,2,train
+data\dog images\Dalmatian\image_202.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_379.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_118.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_369.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_239.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_187.jpg,Dalmatian,0,train
+data\dog images\Pug\image_198.jpg,Pug,2,train
+data\dog images\Pug\image_111.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_61.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_5.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_24.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_51.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_489.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_18.jpg,Rottweiler,3,train
+data\dog images\Pug\image_72.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_403.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_91.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_196.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_357.jpg,Dalmatian,0,train
+data\dog images\Pug\image_19.jpg,Pug,2,train
+data\dog images\Dalmatian\image_240.jpg,Dalmatian,0,train
+data\dog images\Pug\image_30.jpg,Pug,2,train
+data\dog images\Pug\image_338.jpg,Pug,2,train
+data\dog images\Rottweiler\image_407.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_93.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_400.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_130.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_32.jpg,Dalmatian,0,train
+data\dog images\Rottweiler\image_355.jpg,Rottweiler,3,train
+data\dog images\Dalmatian\image_45.jpg,Dalmatian,0,train
+data\dog images\Dalmatian\image_438.jpg,Dalmatian,0,train
+data\dog images\Pug\image_284.jpg,Pug,2,train
+data\dog images\Rottweiler\image_186.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_363.jpg,Golden Retriever,1,train
+data\dog images\Golden_Retriever\image_73.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_255.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_436.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_257.jpg,Dalmatian,0,train
+data\dog images\Golden_Retriever\image_150.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_56.jpg,Pug,2,train
+data\dog images\Pug\image_132.jpg,Pug,2,train
+data\dog images\Pug\image_473.jpg,Pug,2,train
+data\dog images\Pug\image_433.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_474.jpg,Golden Retriever,1,train
+data\dog images\Rottweiler\image_188.jpg,Rottweiler,3,train
+data\dog images\Rottweiler\image_44.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_79.jpg,Golden Retriever,1,train
+data\dog images\Dalmatian\image_18.jpg,Dalmatian,0,train
+data\dog images\Pug\image_325.jpg,Pug,2,train
+data\dog images\Rottweiler\image_166.jpg,Rottweiler,3,train
+data\dog images\Golden_Retriever\image_256.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_271.jpg,Pug,2,train
+data\dog images\Pug\image_45.jpg,Pug,2,train
+data\dog images\Golden_Retriever\image_440.jpg,Golden Retriever,1,train
+data\dog images\Pug\image_191.jpg,Pug,2,val
+data\dog images\Dalmatian\image_104.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_453.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_281.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_75.jpg,Rottweiler,3,val
+data\dog images\Pug\image_256.jpg,Pug,2,val
+data\dog images\Pug\image_135.jpg,Pug,2,val
+data\dog images\Pug\image_26.jpg,Pug,2,val
+data\dog images\Rottweiler\image_9.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_341.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_81.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_85.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_265.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_180.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_487.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_344.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_24.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_387.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_55.jpg,Pug,2,val
+data\dog images\Dalmatian\image_183.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_88.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_445.jpg,Rottweiler,3,val
+data\dog images\Pug\image_339.jpg,Pug,2,val
+data\dog images\Dalmatian\image_422.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_305.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_96.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_334.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_287.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_219.jpg,Pug,2,val
+data\dog images\Pug\image_228.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_283.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_126.jpg,Dalmatian,0,val
+data\dog images\Pug\image_497.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_478.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_238.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_167.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_450.jpg,Pug,2,val
+data\dog images\Rottweiler\image_99.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_166.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_458.jpg,Pug,2,val
+data\dog images\Dalmatian\image_12.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_276.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_280.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_13.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_322.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_131.jpg,Pug,2,val
+data\dog images\Pug\image_222.jpg,Pug,2,val
+data\dog images\Rottweiler\image_110.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_344.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_111.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_78.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_133.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_19.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_40.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_279.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_419.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_390.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_118.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_295.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_435.jpg,Dalmatian,0,val
+data\dog images\Pug\image_311.jpg,Pug,2,val
+data\dog images\Rottweiler\image_331.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_358.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_326.jpg,Pug,2,val
+data\dog images\Rottweiler\image_121.jpg,Rottweiler,3,val
+data\dog images\Pug\image_498.jpg,Pug,2,val
+data\dog images\Rottweiler\image_134.jpg,Rottweiler,3,val
+data\dog images\Pug\image_33.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_235.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_84.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_271.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_424.jpg,Dalmatian,0,val
+data\dog images\Pug\image_247.jpg,Pug,2,val
+data\dog images\Rottweiler\image_74.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_125.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_276.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_301.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_97.jpg,Rottweiler,3,val
+data\dog images\Pug\image_460.jpg,Pug,2,val
+data\dog images\Pug\image_252.jpg,Pug,2,val
+data\dog images\Pug\image_81.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_320.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_415.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_299.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_324.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_261.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_500.jpg,Pug,2,val
+data\dog images\Dalmatian\image_29.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_276.jpg,Rottweiler,3,val
+data\dog images\Pug\image_269.jpg,Pug,2,val
+data\dog images\Pug\image_176.jpg,Pug,2,val
+data\dog images\Pug\image_493.jpg,Pug,2,val
+data\dog images\Dalmatian\image_458.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_362.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_25.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_496.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_329.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_147.jpg,Pug,2,val
+data\dog images\Rottweiler\image_402.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_407.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_102.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_382.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_265.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_118.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_431.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_491.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_144.jpg,Rottweiler,3,val
+data\dog images\Pug\image_409.jpg,Pug,2,val
+data\dog images\Dalmatian\image_342.jpg,Dalmatian,0,val
+data\dog images\Pug\image_365.jpg,Pug,2,val
+data\dog images\Dalmatian\image_296.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_124.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_83.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_245.jpg,Dalmatian,0,val
+data\dog images\Pug\image_152.jpg,Pug,2,val
+data\dog images\Rottweiler\image_5.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_303.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_9.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_357.jpg,Rottweiler,3,val
+data\dog images\Pug\image_380.jpg,Pug,2,val
+data\dog images\Rottweiler\image_101.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_65.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_184.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_220.jpg,Dalmatian,0,val
+data\dog images\Pug\image_154.jpg,Pug,2,val
+data\dog images\Pug\image_387.jpg,Pug,2,val
+data\dog images\Dalmatian\image_412.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_346.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_186.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_328.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_32.jpg,Pug,2,val
+data\dog images\Rottweiler\image_80.jpg,Rottweiler,3,val
+data\dog images\Pug\image_149.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_431.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_204.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_112.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_459.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_235.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_182.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_234.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_88.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_70.jpg,Rottweiler,3,val
+data\dog images\Pug\image_481.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_341.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_182.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_23.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_348.jpg,Dalmatian,0,val
+data\dog images\Pug\image_413.jpg,Pug,2,val
+data\dog images\Dalmatian\image_486.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_308.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_333.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_202.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_371.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_104.jpg,Pug,2,val
+data\dog images\Dalmatian\image_25.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_339.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_163.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_290.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_480.jpg,Pug,2,val
+data\dog images\Dalmatian\image_3.jpg,Dalmatian,0,val
+data\dog images\Pug\image_474.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_221.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_47.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_423.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_38.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_209.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_470.jpg,Dalmatian,0,val
+data\dog images\Pug\image_181.jpg,Pug,2,val
+data\dog images\Dalmatian\image_359.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_498.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_448.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_341.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_283.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_40.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_52.jpg,Dalmatian,0,val
+data\dog images\Pug\image_171.jpg,Pug,2,val
+data\dog images\Dalmatian\image_120.jpg,Dalmatian,0,val
+data\dog images\Pug\image_31.jpg,Pug,2,val
+data\dog images\Dalmatian\image_194.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_448.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_282.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_459.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_381.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_490.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_208.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_125.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_469.jpg,Dalmatian,0,val
+data\dog images\Pug\image_46.jpg,Pug,2,val
+data\dog images\Dalmatian\image_297.jpg,Dalmatian,0,val
+data\dog images\Pug\image_425.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_191.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_159.jpg,Pug,2,val
+data\dog images\Dalmatian\image_399.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_89.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_110.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_107.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_59.jpg,Pug,2,val
+data\dog images\Rottweiler\image_76.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_411.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_457.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_61.jpg,Pug,2,val
+data\dog images\Pug\image_39.jpg,Pug,2,val
+data\dog images\Rottweiler\image_176.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_9.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_292.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_405.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_462.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_67.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_415.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_102.jpg,Pug,2,val
+data\dog images\Pug\image_5.jpg,Pug,2,val
+data\dog images\Rottweiler\image_348.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_160.jpg,Dalmatian,0,val
+data\dog images\Pug\image_393.jpg,Pug,2,val
+data\dog images\Dalmatian\image_191.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_287.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_366.jpg,Rottweiler,3,val
+data\dog images\Pug\image_465.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_29.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_2.jpg,Dalmatian,0,val
+data\dog images\Pug\image_184.jpg,Pug,2,val
+data\dog images\Dalmatian\image_58.jpg,Dalmatian,0,val
+data\dog images\Pug\image_435.jpg,Pug,2,val
+data\dog images\Rottweiler\image_452.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_165.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_446.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_201.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_3.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_483.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_192.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_375.jpg,Rottweiler,3,val
+data\dog images\Pug\image_48.jpg,Pug,2,val
+data\dog images\Rottweiler\image_254.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_120.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_277.jpg,Rottweiler,3,val
+data\dog images\Pug\image_472.jpg,Pug,2,val
+data\dog images\Rottweiler\image_54.jpg,Rottweiler,3,val
+data\dog images\Pug\image_476.jpg,Pug,2,val
+data\dog images\Pug\image_350.jpg,Pug,2,val
+data\dog images\Dalmatian\image_432.jpg,Dalmatian,0,val
+data\dog images\Pug\image_353.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_480.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_326.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_67.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_383.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_38.jpg,Rottweiler,3,val
+data\dog images\Pug\image_308.jpg,Pug,2,val
+data\dog images\Pug\image_105.jpg,Pug,2,val
+data\dog images\Rottweiler\image_111.jpg,Rottweiler,3,val
+data\dog images\Pug\image_126.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_400.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_381.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_225.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_483.jpg,Pug,2,val
+data\dog images\Dalmatian\image_490.jpg,Dalmatian,0,val
+data\dog images\Pug\image_34.jpg,Pug,2,val
+data\dog images\Rottweiler\image_360.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_333.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_339.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_469.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_152.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_466.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_451.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_460.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_283.jpg,Pug,2,val
+data\dog images\Dalmatian\image_19.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_494.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_10.jpg,Dalmatian,0,val
+data\dog images\Golden_Retriever\image_142.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_292.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_214.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_41.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_23.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_95.jpg,Rottweiler,3,val
+data\dog images\Pug\image_245.jpg,Pug,2,val
+data\dog images\Dalmatian\image_426.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_151.jpg,Rottweiler,3,val
+data\dog images\Dalmatian\image_488.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_176.jpg,Dalmatian,0,val
+data\dog images\Dalmatian\image_371.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_13.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_441.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_347.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_17.jpg,Pug,2,val
+data\dog images\Rottweiler\image_400.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_25.jpg,Golden Retriever,1,val
+data\dog images\Dalmatian\image_230.jpg,Dalmatian,0,val
+data\dog images\Rottweiler\image_485.jpg,Rottweiler,3,val
+data\dog images\Pug\image_51.jpg,Pug,2,val
+data\dog images\Dalmatian\image_1.jpg,Dalmatian,0,val
+data\dog images\Pug\image_336.jpg,Pug,2,val
+data\dog images\Golden_Retriever\image_499.jpg,Golden Retriever,1,val
+data\dog images\Pug\image_345.jpg,Pug,2,val
+data\dog images\Rottweiler\image_308.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_396.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_209.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_238.jpg,Rottweiler,3,val
+data\dog images\Golden_Retriever\image_104.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_23.jpg,Golden Retriever,1,val
+data\dog images\Golden_Retriever\image_281.jpg,Golden Retriever,1,val
+data\dog images\Rottweiler\image_417.jpg,Rottweiler,3,val
+data\dog images\Rottweiler\image_251.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_349.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_188.jpg,Dalmatian,0,test
+data\dog images\Pug\image_1.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_75.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_471.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_323.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_454.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_302.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_500.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_14.jpg,Dalmatian,0,test
+data\dog images\Pug\image_229.jpg,Pug,2,test
+data\dog images\Pug\image_459.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_192.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_44.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_318.jpg,Pug,2,test
+data\dog images\Rottweiler\image_185.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_236.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_115.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_179.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_360.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_331.jpg,Dalmatian,0,test
+data\dog images\Pug\image_410.jpg,Pug,2,test
+data\dog images\Dalmatian\image_53.jpg,Dalmatian,0,test
+data\dog images\Pug\image_418.jpg,Pug,2,test
+data\dog images\Dalmatian\image_474.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_272.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_107.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_470.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_424.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_380.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_390.jpg,Pug,2,test
+data\dog images\Dalmatian\image_329.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_217.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_81.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_345.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_489.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_4.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_457.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_22.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_249.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_376.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_270.jpg,Pug,2,test
+data\dog images\Rottweiler\image_4.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_271.jpg,Dalmatian,0,test
+data\dog images\Pug\image_161.jpg,Pug,2,test
+data\dog images\Rottweiler\image_227.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_414.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_497.jpg,Dalmatian,0,test
+data\dog images\Pug\image_178.jpg,Pug,2,test
+data\dog images\Pug\image_76.jpg,Pug,2,test
+data\dog images\Rottweiler\image_377.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_15.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_96.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_364.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_122.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_147.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_314.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_183.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_397.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_167.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_359.jpg,Rottweiler,3,test
+data\dog images\Pug\image_137.jpg,Pug,2,test
+data\dog images\Dalmatian\image_59.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_36.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_210.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_258.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_215.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_257.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_192.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_163.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_3.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_450.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_65.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_33.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_60.jpg,Pug,2,test
+data\dog images\Rottweiler\image_379.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_99.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_236.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_253.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_177.jpg,Rottweiler,3,test
+data\dog images\Pug\image_296.jpg,Pug,2,test
+data\dog images\Rottweiler\image_311.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_340.jpg,Rottweiler,3,test
+data\dog images\Pug\image_275.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_453.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_118.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_177.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_357.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_101.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_277.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_459.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_90.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_367.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_189.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_397.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_440.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_88.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_141.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_316.jpg,Dalmatian,0,test
+data\dog images\Pug\image_328.jpg,Pug,2,test
+data\dog images\Pug\image_273.jpg,Pug,2,test
+data\dog images\Dalmatian\image_49.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_294.jpg,Dalmatian,0,test
+data\dog images\Pug\image_305.jpg,Pug,2,test
+data\dog images\Rottweiler\image_429.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_417.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_285.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_407.jpg,Pug,2,test
+data\dog images\Pug\image_13.jpg,Pug,2,test
+data\dog images\Dalmatian\image_428.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_160.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_324.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_215.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_29.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_101.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_399.jpg,Pug,2,test
+data\dog images\Dalmatian\image_373.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_344.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_420.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_139.jpg,Pug,2,test
+data\dog images\Dalmatian\image_344.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_61.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_493.jpg,Rottweiler,3,test
+data\dog images\Pug\image_386.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_242.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_493.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_349.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_391.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_21.jpg,Dalmatian,0,test
+data\dog images\Pug\image_291.jpg,Pug,2,test
+data\dog images\Rottweiler\image_382.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_474.jpg,Rottweiler,3,test
+data\dog images\Pug\image_320.jpg,Pug,2,test
+data\dog images\Dalmatian\image_320.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_244.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_35.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_286.jpg,Pug,2,test
+data\dog images\Pug\image_408.jpg,Pug,2,test
+data\dog images\Pug\image_356.jpg,Pug,2,test
+data\dog images\Dalmatian\image_135.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_142.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_446.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_16.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_259.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_105.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_39.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_152.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_168.jpg,Pug,2,test
+data\dog images\Rottweiler\image_239.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_245.jpg,Rottweiler,3,test
+data\dog images\Pug\image_172.jpg,Pug,2,test
+data\dog images\Dalmatian\image_264.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_427.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_227.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_130.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_418.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_349.jpg,Pug,2,test
+data\dog images\Pug\image_267.jpg,Pug,2,test
+data\dog images\Pug\image_319.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_396.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_100.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_161.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_266.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_103.jpg,Dalmatian,0,test
+data\dog images\Pug\image_438.jpg,Pug,2,test
+data\dog images\Dalmatian\image_414.jpg,Dalmatian,0,test
+data\dog images\Pug\image_382.jpg,Pug,2,test
+data\dog images\Pug\image_94.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_330.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_314.jpg,Dalmatian,0,test
+data\dog images\Pug\image_84.jpg,Pug,2,test
+data\dog images\Pug\image_333.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_445.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_399.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_476.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_150.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_190.jpg,Dalmatian,0,test
+data\dog images\Pug\image_261.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_475.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_340.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_212.jpg,Pug,2,test
+data\dog images\Rottweiler\image_274.jpg,Rottweiler,3,test
+data\dog images\Pug\image_321.jpg,Pug,2,test
+data\dog images\Pug\image_376.jpg,Pug,2,test
+data\dog images\Pug\image_419.jpg,Pug,2,test
+data\dog images\Dalmatian\image_55.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_376.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_114.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_337.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_409.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_446.jpg,Rottweiler,3,test
+data\dog images\Pug\image_361.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_477.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_164.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_146.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_413.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_329.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_268.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_34.jpg,Rottweiler,3,test
+data\dog images\Pug\image_373.jpg,Pug,2,test
+data\dog images\Dalmatian\image_51.jpg,Dalmatian,0,test
+data\dog images\Pug\image_20.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_43.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_324.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_265.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_388.jpg,Dalmatian,0,test
+data\dog images\Pug\image_225.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_95.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_178.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_316.jpg,Pug,2,test
+data\dog images\Pug\image_487.jpg,Pug,2,test
+data\dog images\Rottweiler\image_495.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_280.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_293.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_408.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_90.jpg,Pug,2,test
+data\dog images\Dalmatian\image_206.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_108.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_264.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_490.jpg,Pug,2,test
+data\dog images\Rottweiler\image_73.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_277.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_436.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_187.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_444.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_460.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_258.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_476.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_158.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_168.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_386.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_152.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_479.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_416.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_161.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_170.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_236.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_467.jpg,Dalmatian,0,test
+data\dog images\Pug\image_486.jpg,Pug,2,test
+data\dog images\Dalmatian\image_309.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_305.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_389.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_442.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_334.jpg,Pug,2,test
+data\dog images\Rottweiler\image_96.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_72.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_247.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_35.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_274.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_170.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_92.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_340.jpg,Dalmatian,0,test
+data\dog images\Pug\image_47.jpg,Pug,2,test
+data\dog images\Rottweiler\image_318.jpg,Rottweiler,3,test
+data\dog images\Pug\image_406.jpg,Pug,2,test
+data\dog images\Rottweiler\image_153.jpg,Rottweiler,3,test
+data\dog images\Pug\image_434.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_386.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_302.jpg,Rottweiler,3,test
+data\dog images\Pug\image_35.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_384.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_89.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_175.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_410.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_140.jpg,Rottweiler,3,test
+data\dog images\Pug\image_293.jpg,Pug,2,test
+data\dog images\Rottweiler\image_16.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_432.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_438.jpg,Rottweiler,3,test
+data\dog images\Rottweiler\image_460.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_325.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_253.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_364.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_426.jpg,Rottweiler,3,test
+data\dog images\Golden_Retriever\image_247.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_38.jpg,Pug,2,test
+data\dog images\Dalmatian\image_493.jpg,Dalmatian,0,test
+data\dog images\Pug\image_10.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_196.jpg,Golden Retriever,1,test
+data\dog images\Rottweiler\image_269.jpg,Rottweiler,3,test
+data\dog images\Dalmatian\image_346.jpg,Dalmatian,0,test
+data\dog images\Dalmatian\image_481.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_93.jpg,Golden Retriever,1,test
+data\dog images\Dalmatian\image_242.jpg,Dalmatian,0,test
+data\dog images\Rottweiler\image_193.jpg,Rottweiler,3,test
+data\dog images\Pug\image_142.jpg,Pug,2,test
+data\dog images\Dalmatian\image_307.jpg,Dalmatian,0,test
+data\dog images\Pug\image_444.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_65.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_140.jpg,Pug,2,test
+data\dog images\Pug\image_113.jpg,Pug,2,test
+data\dog images\Pug\image_265.jpg,Pug,2,test
+data\dog images\Pug\image_95.jpg,Pug,2,test
+data\dog images\Dalmatian\image_131.jpg,Dalmatian,0,test
+data\dog images\Golden_Retriever\image_12.jpg,Golden Retriever,1,test
+data\dog images\Pug\image_138.jpg,Pug,2,test
+data\dog images\Pug\image_69.jpg,Pug,2,test
+data\dog images\Golden_Retriever\image_394.jpg,Golden Retriever,1,test
+data\dog images\Golden_Retriever\image_336.jpg,Golden Retriever,1,test
